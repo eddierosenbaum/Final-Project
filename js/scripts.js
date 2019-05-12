@@ -5,14 +5,6 @@ const map = new mapboxgl.Map({
   center: [33.965674, 49.277473],
   zoom: 4.7
 });
-mapboxgl.accessToken = 'pk.eyJ1IjoiZWRkaWVyb3NlbmJhdW0iLCJhIjoiY2p1a2hjYnN1MXZ5bDQzcGcyd3M2djkyNCJ9._8wwgcVBrEeXxMoTgrXRGg';
-const map = new mapboxgl.Map({
-  container: 'map',
-  style: 'mapbox://styles/eddierosenbaum/cjuklbw401zjh1fqueauiyv2y',
-  center: [32.288818,48.814099],
-  zoom: 4.0
-});
-
 
 var clinics= [
   {
