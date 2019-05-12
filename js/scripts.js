@@ -109,7 +109,7 @@ map.on('style.load', function() {
       source: 'conflictline',
       paint: {
         "line-color": "orange",
-        "line-width": 18,
+        "line-width": 22,
         "line-opacity": 0.5
       }
     })
