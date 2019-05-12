@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      
+      "type": "Feature",
+      "properties": {
+        "name": "Stepove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.42718505859375,
+          48.97120299264308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stepove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.23492431640625,
+          49.01085236926211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stepove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.990478515625,
+          49.009050809382046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stepove"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.50065612792969,
+          49.050920216584856
+        ]
+      }
+    }
+  ]
+}

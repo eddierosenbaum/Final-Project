@@ -1,0 +1,20 @@
+
+
+h1 {
+  background: #1748CE;
+  border: 3px solid #1C6EA4;
+  font-family: #A4A096;
+}
+
+
+h2 {
+  background: #A4A096;
+}
+
+body {
+  color: #CECCBC;
+}
+
+#map {
+  height: 600px;
+}
