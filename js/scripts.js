@@ -6,6 +6,7 @@ const map = new mapboxgl.Map({
   zoom: 4.9
 });
 
+
 var clinics= [
   {
     lng: 38.5137507,
@@ -58,8 +59,8 @@ var clinics= [
     name: 'Komyshne'
   },
 ];
-  console.log(clinics)
-  clinics.forEach(function(clinic) {
+console.log(clinics)
+clinics.forEach(function(clinic) {
 
 
   new mapboxgl.Marker()
