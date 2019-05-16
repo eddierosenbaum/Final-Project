@@ -5,7 +5,6 @@ const map = new mapboxgl.Map({
   center: [33.965674, 49.277473],
   zoom: 4.9
 });
-
 var clinics= [
   {
     lng: 38.5137507,
