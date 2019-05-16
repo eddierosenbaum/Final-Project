@@ -58,8 +58,8 @@ var clinics= [
     name: 'Komyshne'
   },
 ];
-console.log(clinics)
-clinics.forEach(function(clinic) {
+  console.log(clinics)
+  clinics.forEach(function(clinic) {
 
 
   new mapboxgl.Marker()
