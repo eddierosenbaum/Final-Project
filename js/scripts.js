@@ -3,7 +3,7 @@ const map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/eddierosenbaum/cjuklbw401zjh1fqueauiyv2y',
   center: [35.702820,48.712713],
-  zoom: 5.5
+  zoom: 6.5
 });
 
 var clinics= [
