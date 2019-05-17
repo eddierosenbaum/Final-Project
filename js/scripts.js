@@ -58,6 +58,7 @@ var clinics= [
     name: 'Komyshne'
   },
 ];
+
 console.log(clinics)
 clinics.forEach(function(clinic) {
 
